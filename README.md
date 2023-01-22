@@ -1,4 +1,4 @@
-# Space-Delta
+# Space-Force
 
 ## Inspiration
 The number of satellites and debris in space has signficantly increased in recent years, with around 19500 objects documented in 2019. Thanks to improvements in satellite technology and lower costs of production, we expect this number to rise even higher ... and more rapidly at that.
