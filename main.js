@@ -6,6 +6,7 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 import * as data from './posInitTruncated.json';
 const { x } = data;
 //alert(data);
+//imporing file data
 //import { xxx } from 'http://www.webglearth.com/v2/api.js'
 /*
 var array1 = new Array();
@@ -74,7 +75,7 @@ const camera = new THREE.PerspectiveCamera (75, window.innerWidth / window.inner
 const renderer = new THREE.WebGLRenderer({
   canvas: document.querySelector('#bg'),
 });
-
+//creating render
 renderer.setPixelRatio(window.devicePixelRatio);
 renderer.setSize(window.innerWidth, window.innerHeight);
 camera.position.setZ(30);
